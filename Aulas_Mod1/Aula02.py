@@ -16,4 +16,4 @@ print(notas2)
 
 print(notas.describe())  # descreve dados estatísticos de uma Serie/DataFrame
 print(notas.mean())  # mean é a media
-print(notas**2)  # ** elevao o valor a 2
+print(notas**2)  # ** elevado o valor a 2
