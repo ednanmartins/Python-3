@@ -1,0 +1,11 @@
+Literalmente todas as aulas foram explicação
+
+--> Hadoop
+
+--> Apache Spark
+
+--> PySpark
+
+--> Configuração do ambiente Windows
+
+--> Configuração de ambiente Linux
