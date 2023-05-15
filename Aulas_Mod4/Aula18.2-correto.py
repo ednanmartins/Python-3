@@ -1,3 +1,4 @@
+# Codito corrigido com a ajuda do chat GPT
 from pyspark.sql import SparkSession
 
 # Cria uma instância do SparkSession
@@ -7,7 +8,7 @@ spark = SparkSession.builder \
     .config('spark.executor.memory', '1gb') \
     .getOrCreate()
 # Define o modo de execução local
-# Define o modo de execução local
+# Define o nome da aplicação
 # Configura a memória do executor para 1GB
 # Obtém uma sessão Spark existente ou cria uma nova
 
